@@ -4,5 +4,5 @@ A collection of Power BI dashboards demonstrating proficiency in data modeling, 
 
 ## Project
 - Adidas Sales Analysis
-- Sales Overview Analysis: A dynamic Power BI dashboard that tracks key metrics—Sales, Profit, and Quantity—across four regions
+- Sales Overview Analysis: A dynamic Power BI dashboard that tracks key metrics—Sales, Profit, and Quantity across four regions
 
